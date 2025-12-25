@@ -10,3 +10,5 @@ nacos/nacos-server:v2.4.3
 ubuntu:24.04
 apache/seata-server:2.2.0
 drainkeng/paddleocr:2.6-cpu-latest
+bellsoft/liberica-openjdk-rocky:21
+bellsoft/liberica-openjre-rocky:21
